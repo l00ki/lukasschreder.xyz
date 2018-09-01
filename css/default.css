@@ -1,0 +1,19 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: lightgray;
+    color: black;
+    width: 40em;
+    margin: auto;
+}
+
+section {
+    background-color: lightgray;
+}
+
+.navigation {
+    background-color: lightgray;
+}
+
+.SectionCaption {
+    text-align: center;
+}
